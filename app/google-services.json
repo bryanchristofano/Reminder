@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "144148724861",
+    "project_id": "cobareminder-bea00",
+    "storage_bucket": "cobareminder-bea00.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:144148724861:android:16d9e67eba52dd12f98514",
+        "android_client_info": {
+          "package_name": "com.example.reminder"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBw_xutXXGm24T2O7glnTo4dqrlO0FWIho"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
